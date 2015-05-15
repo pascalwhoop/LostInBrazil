@@ -1,0 +1,1 @@
+This folder is for non project required files like TODO Lists for different parts of the project and so on

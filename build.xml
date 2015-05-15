@@ -1,0 +1,29 @@
+<project default="build">
+
+  <!-- PROPERTIES -->
+  <property name="basedir" value="." />
+  <property name="builddir" value="../server" />
+
+  <!-- BUILD -->
+  <target name="build">
+
+    <!-- UPDATE THE CHECKOUT VIA SVN -->
+    <exec dir="${basedir}" executable="svn">
+      <arg line="up"/>
+    </exec>
+
+    <!-- DELETE BIN FOLDER -->
+    <delete dir="${basedir}/${builddir}/bin"/>
+
+    <!-- CREATE BIN FOLDER -->
+    <mkdir dir="${basedir}/${builddir}/bin"/>
+
+    <!-- BUILD SHARED -->
+    <javac srcdir="${basedir}/shared" destdir="${builddir}/bin" />
+
+    <!-- BUILD SERVER -->
+    <javac srcdir="${basedir}/server" destdir="${builddir}/bin" sourcepath="${basedir}/shared/src" />
+
+  </target>
+
+</project>

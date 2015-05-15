@@ -1,0 +1,2958 @@
+Jun 20, 2014 11:01:10 AM pp2014.team32.client.entities.CLevelMap <clinit>
+WARNUNG: Image for LevelMapType 'AIRPORT' was not found.
+Jun 20, 2014 11:01:10 AM pp2014.team32.client.entities.CLevelMap <clinit>
+WARNUNG: Image for LevelMapType 'URBAN_AREA' was not found.
+Jun 20, 2014 11:01:10 AM pp2014.team32.client.entities.CLevelMap <clinit>
+WARNUNG: Image for UIObjectType 'CHARACTER' was not found.
+Jun 20, 2014 11:01:10 AM pp2014.team32.client.entities.CLevelMap <clinit>
+WARNUNG: Image for UIObjectType 'ITEM' was not found.
+Jun 20, 2014 11:01:10 AM pp2014.team32.client.entities.CLevelMap <clinit>
+WARNUNG: Image for UIObjectType 'PLAYER' was not found.
+Jun 20, 2014 11:01:10 AM pp2014.team32.client.entities.CLevelMap <clinit>
+WARNUNG: Image for UIObjectType 'ENEMY' was not found.
+Jun 20, 2014 11:01:10 AM pp2014.team32.client.entities.CLevelMap <clinit>
+WARNUNG: Image for UIObjectType 'TAXI' was not found.
+Jun 20, 2014 11:01:10 AM pp2014.team32.client.entities.CLevelMap <clinit>
+WARNUNG: Image for UIObjectType 'OUTER_WALL' was not found.
+Jun 20, 2014 11:01:10 AM pp2014.team32.client.entities.CLevelMap <clinit>
+WARNUNG: Image for CharacterType 'ENGLISH' was not found.
+Jun 20, 2014 11:01:11 AM pp2014.team32.client.ClientMain initializeSession
+INFORMATION: user input received...processing now
+Jun 20, 2014 11:01:11 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###USERAUTHENTICATION
+Jun 20, 2014 11:01:11 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###AUTHENTICATIONRESPONSE received
+Jun 20, 2014 11:01:11 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###PING
+Jun 20, 2014 11:01:12 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###LEVELDATA received
+Jun 20, 2014 11:01:12 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###PING received
+Jun 20, 2014 11:01:12 AM [pp2014.team32.client.engine.ServerMessageHandler]  run
+INFORMATION: Ping Roundtrip time: 1052
+Jun 20, 2014 11:01:12 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:12 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:12 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:12 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:12 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:12 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:12 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:12 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:12 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:12 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:12 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:12 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:12 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:12 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:12 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:12 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:12 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:12 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:13 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:13 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:13 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:13 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:13 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:13 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:13 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:13 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:13 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###PING
+Jun 20, 2014 11:01:13 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:13 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###PING received
+Jun 20, 2014 11:01:13 AM [pp2014.team32.client.engine.ServerMessageHandler]  run
+INFORMATION: Ping Roundtrip time: 7
+Jun 20, 2014 11:01:13 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:13 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:13 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:13 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:13 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:13 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:13 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:13 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:13 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:13 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:13 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:13 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:13 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:13 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:13 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:13 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:13 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:13 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:13 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:13 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:13 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:13 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:13 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:13 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:13 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:13 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:13 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:13 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:13 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:13 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:13 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:13 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:13 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:13 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:13 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:13 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:13 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:13 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:13 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:13 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:13 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:14 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:14 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:14 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:14 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:14 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:14 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:14 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:14 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:14 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:14 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:14 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:14 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:14 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:14 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:14 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:14 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:14 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:14 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:14 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:14 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:14 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:14 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:14 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:14 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:14 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:14 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:14 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:14 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:14 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:14 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:14 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:14 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:14 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:14 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:14 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:14 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:14 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:14 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:14 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:14 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:14 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:14 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:14 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:14 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:14 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:14 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:14 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:14 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:14 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:14 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:15 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:15 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:15 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:15 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:15 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:15 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:15 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:15 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:15 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###PING
+Jun 20, 2014 11:01:15 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:15 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###PING received
+Jun 20, 2014 11:01:15 AM [pp2014.team32.client.engine.ServerMessageHandler]  run
+INFORMATION: Ping Roundtrip time: 3
+Jun 20, 2014 11:01:15 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:15 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:15 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:15 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:15 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:15 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:15 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:15 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:15 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:15 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:15 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:15 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:15 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:15 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:15 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:15 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:15 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:15 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:15 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:15 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:15 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:15 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:15 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:15 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:15 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:15 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:15 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:15 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:15 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:15 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:15 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:15 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:15 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:15 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:15 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:15 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:15 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:15 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:15 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:15 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:15 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:16 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:16 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:16 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:16 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:16 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:16 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:16 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:16 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:16 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:16 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:16 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:16 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:16 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:16 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:16 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:16 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:16 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:16 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:16 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:16 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:16 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:16 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:16 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:16 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:16 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:16 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:16 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:16 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:16 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:16 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:16 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:16 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:16 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:16 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:16 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:16 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:16 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:16 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:16 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:16 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:16 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:16 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:16 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:16 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:16 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:16 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:16 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:16 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:16 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:16 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:17 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:17 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:17 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:17 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:17 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:17 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:17 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:17 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:17 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###PING
+Jun 20, 2014 11:01:17 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:17 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###PING received
+Jun 20, 2014 11:01:17 AM [pp2014.team32.client.engine.ServerMessageHandler]  run
+INFORMATION: Ping Roundtrip time: 17
+Jun 20, 2014 11:01:17 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:17 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:17 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:17 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:17 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:17 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:17 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:17 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:17 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:17 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:17 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:17 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:17 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:17 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:17 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:17 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:17 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:17 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:17 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:17 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:17 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:17 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:17 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:17 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:17 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:17 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:17 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:17 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:17 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:17 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:17 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:17 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:17 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:17 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:17 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:17 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:17 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:17 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:17 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:17 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:17 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:18 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:18 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:18 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:18 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:18 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:18 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:18 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:18 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:18 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:18 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:18 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:18 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:18 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:18 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:18 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:18 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:18 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:18 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:18 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:18 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:18 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:18 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:18 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:18 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:18 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:18 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:18 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:18 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:18 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:18 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:18 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:18 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:18 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:18 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:18 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:18 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:18 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:18 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:18 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:18 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:18 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:18 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:18 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:18 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:18 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:18 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:18 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:18 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:18 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:18 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:19 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:19 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:19 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:19 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:19 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:19 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:19 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:19 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:19 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###PING
+Jun 20, 2014 11:01:19 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:19 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###PING received
+Jun 20, 2014 11:01:19 AM [pp2014.team32.client.engine.ServerMessageHandler]  run
+INFORMATION: Ping Roundtrip time: 5
+Jun 20, 2014 11:01:19 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:19 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:19 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:19 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:19 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:19 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:19 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:19 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:19 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:19 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:19 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:19 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:19 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:19 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:19 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:19 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:19 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:19 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:19 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:19 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:19 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:19 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:19 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:19 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:19 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:19 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:19 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:19 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:19 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:19 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:19 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:19 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:19 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:19 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:19 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:19 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:19 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:19 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:19 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:19 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:19 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:20 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:20 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:20 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:20 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:20 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:20 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:20 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:20 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:20 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:20 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:20 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:20 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:20 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:20 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:20 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:20 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:20 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:20 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:20 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:20 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:20 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:20 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:20 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:20 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:20 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:20 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:20 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:20 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:20 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:20 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:20 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:20 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:20 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:20 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:20 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:20 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:20 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:20 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:20 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:20 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:20 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:20 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:20 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:20 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:20 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:20 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:20 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:20 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:20 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:20 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:21 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:21 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:21 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:21 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:21 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:21 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:21 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:21 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:21 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:21 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###PING
+Jun 20, 2014 11:01:21 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###PING received
+Jun 20, 2014 11:01:21 AM [pp2014.team32.client.engine.ServerMessageHandler]  run
+INFORMATION: Ping Roundtrip time: 13
+Jun 20, 2014 11:01:21 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:21 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:21 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:21 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:21 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:21 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:21 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:21 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:21 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:21 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:21 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:21 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:21 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:21 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:21 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:21 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:21 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:21 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:21 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:21 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:21 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:21 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:21 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:21 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:21 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:21 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:21 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:21 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:21 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:21 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:21 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:21 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:21 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:21 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:21 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:21 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:21 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:21 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:21 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:21 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:21 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:22 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:22 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:22 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:22 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:22 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:22 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:22 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:22 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:22 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:22 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:22 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:22 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:22 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:22 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:22 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:22 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:22 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:22 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:22 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:22 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:22 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:22 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:22 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:22 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:22 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:22 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:22 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:22 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:22 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:22 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:22 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:22 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:22 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:22 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:22 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:22 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:22 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:22 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:22 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:22 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:22 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:22 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:22 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:22 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:22 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:22 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:22 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:22 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:22 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:22 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:23 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:23 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:23 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:23 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:23 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:23 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:23 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:23 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:23 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:23 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###PING
+Jun 20, 2014 11:01:23 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###PING received
+Jun 20, 2014 11:01:23 AM [pp2014.team32.client.engine.ServerMessageHandler]  run
+INFORMATION: Ping Roundtrip time: 5
+Jun 20, 2014 11:01:23 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:23 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:23 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:23 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:23 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:23 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:23 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:23 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:23 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:23 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:23 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:23 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:23 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:23 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:23 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:23 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:23 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:23 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:23 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:23 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:23 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:23 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:23 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:23 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:23 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:23 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:23 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:23 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:23 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:23 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:23 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:23 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:23 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:23 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:23 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:23 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:23 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:23 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:23 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:23 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:23 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:24 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:24 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:24 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:24 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:24 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:24 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:24 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:24 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:24 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:24 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:24 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:24 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:24 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:24 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:24 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:24 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:24 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:24 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:24 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:24 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:24 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:24 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:24 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:24 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:24 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:24 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:24 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:24 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:24 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:24 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:24 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:24 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:24 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:24 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:24 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:24 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:24 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:24 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:24 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:24 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:24 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:24 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:24 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:24 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:24 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:24 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:24 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:24 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:24 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:24 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:25 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:25 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:25 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:25 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:25 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:25 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:25 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:25 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:25 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:25 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:25 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###PING
+Jun 20, 2014 11:01:25 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###PING received
+Jun 20, 2014 11:01:25 AM [pp2014.team32.client.engine.ServerMessageHandler]  run
+INFORMATION: Ping Roundtrip time: 2
+Jun 20, 2014 11:01:25 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:25 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:25 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:25 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:25 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:25 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:25 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:25 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:25 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:25 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:25 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:25 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:25 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:25 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:25 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:25 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:25 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:25 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:25 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:25 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:25 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:25 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:25 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:25 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:25 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:25 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:25 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:25 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:25 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:25 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:25 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:25 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:25 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:25 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:25 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:25 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:25 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:25 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:25 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:25 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:26 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:26 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:26 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:26 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:26 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:26 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:26 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:26 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:26 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:26 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:26 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:26 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:26 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:26 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:26 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:26 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:26 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:26 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:26 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:26 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:26 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:26 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:26 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:26 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:26 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:26 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:26 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:26 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:26 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:26 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:26 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:26 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:26 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:26 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:26 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:26 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:26 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:26 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:26 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:26 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:26 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:26 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:26 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:26 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:26 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:26 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:26 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:26 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:26 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:26 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:27 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:27 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:27 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:27 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:27 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:27 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:27 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:27 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:27 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:27 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:27 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###PING
+Jun 20, 2014 11:01:27 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###PING received
+Jun 20, 2014 11:01:27 AM [pp2014.team32.client.engine.ServerMessageHandler]  run
+INFORMATION: Ping Roundtrip time: 2
+Jun 20, 2014 11:01:27 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:27 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:27 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:27 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:27 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:27 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:27 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:27 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:27 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:27 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:27 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:27 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:27 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:27 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:27 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:27 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:27 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:27 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:27 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:27 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:27 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:27 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:27 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:27 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:27 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:27 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:27 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:27 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:27 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:27 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:27 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:27 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:27 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:27 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:27 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:27 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:27 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:27 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:27 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:27 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:28 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:28 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:28 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:28 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:28 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:28 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:28 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:28 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:28 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:28 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:28 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:28 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:28 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:28 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:28 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:28 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:28 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:28 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:28 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:28 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:28 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:28 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:28 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:28 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:28 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:28 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:28 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:28 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:28 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:28 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:28 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:28 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:28 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:28 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:28 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:28 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:28 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:28 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:28 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:28 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:28 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:28 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:28 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:28 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:28 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:28 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:28 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:28 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:28 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:28 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:29 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:29 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:29 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:29 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:29 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:29 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:29 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:29 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:29 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:29 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:29 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###PING
+Jun 20, 2014 11:01:29 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###PING received
+Jun 20, 2014 11:01:29 AM [pp2014.team32.client.engine.ServerMessageHandler]  run
+INFORMATION: Ping Roundtrip time: 3
+Jun 20, 2014 11:01:29 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:29 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:29 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:29 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:29 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:29 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:29 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:29 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:29 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:29 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:29 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:29 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:29 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:29 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:29 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:29 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:29 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:29 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:29 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:29 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:29 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:29 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:29 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:29 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:29 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:29 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:29 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:29 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:29 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:29 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:29 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:29 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:29 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:29 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:29 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:29 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:29 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:29 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:29 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:29 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:30 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:30 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:30 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:30 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:30 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:30 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:30 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:30 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:30 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:30 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:30 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:30 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:30 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:30 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:30 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:30 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:30 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:30 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:30 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:30 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:30 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:30 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:30 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:30 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:30 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:30 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:30 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:30 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:30 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:30 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:30 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:30 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:30 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:30 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:30 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:30 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:30 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:30 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:30 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:30 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:30 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:30 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:30 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:30 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:30 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:30 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:30 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:30 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:30 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:30 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:31 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:31 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:31 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:31 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:31 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:31 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:31 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:31 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:31 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:31 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:31 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###PING
+Jun 20, 2014 11:01:31 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###PING received
+Jun 20, 2014 11:01:31 AM [pp2014.team32.client.engine.ServerMessageHandler]  run
+INFORMATION: Ping Roundtrip time: 3
+Jun 20, 2014 11:01:31 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:31 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:31 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:31 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:31 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:31 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:31 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:31 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:31 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:31 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:31 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:31 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:31 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:31 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:31 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:31 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:31 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:31 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:31 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:31 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:31 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:31 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:31 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:31 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:31 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:31 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:31 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:31 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:31 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:31 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:31 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:31 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:31 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:31 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:31 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:31 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:31 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:31 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:31 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:31 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:32 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:32 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:32 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:32 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:32 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:32 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:32 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:32 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:32 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:32 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:32 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:32 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:32 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:32 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:32 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:32 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:32 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:32 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:32 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:32 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:32 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:32 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:32 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:32 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:32 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:32 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:32 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:32 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:32 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:32 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:32 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:32 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:32 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:32 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:32 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:32 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:32 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:32 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:32 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:32 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:32 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:32 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:32 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:32 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:32 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:32 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:32 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:32 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:32 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:32 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:33 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:33 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:33 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:33 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:33 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:33 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:33 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:33 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:33 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:33 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:33 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###PING
+Jun 20, 2014 11:01:33 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###PING received
+Jun 20, 2014 11:01:33 AM [pp2014.team32.client.engine.ServerMessageHandler]  run
+INFORMATION: Ping Roundtrip time: 4
+Jun 20, 2014 11:01:33 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:33 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:33 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:33 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:33 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:33 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:33 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:33 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:33 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:33 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:33 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:33 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:33 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:33 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:33 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:33 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:33 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:33 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:33 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:33 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:33 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:33 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:33 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:33 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:33 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:33 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:33 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:33 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:33 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:33 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:33 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:33 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:33 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:33 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:33 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:33 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:33 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:33 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:33 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:33 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:34 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:34 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:34 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:34 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:34 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:34 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:34 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:34 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:34 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:34 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:34 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:34 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:34 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:34 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:34 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:34 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:34 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:34 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:34 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:34 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:34 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:34 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:34 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:34 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:34 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:34 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:34 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:34 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:34 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:34 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:34 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:34 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:34 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:34 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:34 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:34 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:34 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:34 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:34 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:34 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:34 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:34 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:34 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:34 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:34 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:34 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:34 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:34 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:34 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:34 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:35 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:35 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:35 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:35 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:35 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:35 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:35 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:35 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:35 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:35 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###PING
+Jun 20, 2014 11:01:35 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:35 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###PING received
+Jun 20, 2014 11:01:35 AM [pp2014.team32.client.engine.ServerMessageHandler]  run
+INFORMATION: Ping Roundtrip time: 4
+Jun 20, 2014 11:01:35 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:35 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:35 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:35 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:35 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:35 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:35 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:35 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:35 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:35 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:35 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:35 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:35 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:35 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:35 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:35 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:35 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:35 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:35 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:35 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:35 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:35 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:35 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:35 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:35 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:35 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:35 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:35 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:35 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:35 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:35 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:35 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:35 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:35 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:35 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:35 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:35 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:35 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:35 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:35 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:36 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:36 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:36 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:36 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:36 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:36 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:36 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:36 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:36 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:36 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:36 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:36 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:36 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:36 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:36 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:36 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:36 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:36 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:36 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:36 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:36 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:36 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:36 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:36 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:36 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:36 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:36 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:36 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:36 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:36 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:36 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:36 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:36 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:36 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:36 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:36 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:36 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:36 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:36 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:36 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:36 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:36 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:36 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:36 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:36 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:36 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:36 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:36 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:36 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:36 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:37 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:37 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:37 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:37 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:37 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:37 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:37 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:37 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:37 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:37 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:37 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###PING
+Jun 20, 2014 11:01:37 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###PING received
+Jun 20, 2014 11:01:37 AM [pp2014.team32.client.engine.ServerMessageHandler]  run
+INFORMATION: Ping Roundtrip time: 3
+Jun 20, 2014 11:01:37 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:37 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:37 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:37 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:37 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:37 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:37 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:37 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:37 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:37 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:37 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:37 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:37 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:37 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:37 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:37 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:37 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:37 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:37 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:37 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:37 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:37 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:37 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:37 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:37 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:37 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:37 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:37 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:37 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:37 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:37 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:37 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:37 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:37 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:37 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:37 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:37 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:37 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:37 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:37 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:38 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:38 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:38 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:38 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:38 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:38 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:38 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:38 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:38 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:38 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:38 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:38 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:38 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:38 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:38 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:38 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:38 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:38 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:38 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:38 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:38 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:38 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:38 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:38 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:38 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:38 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:38 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:38 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:38 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:38 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:38 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:38 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:38 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:38 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:38 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:38 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:38 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:38 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:38 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:38 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:38 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:38 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:38 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:38 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:38 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:38 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:38 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:38 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:38 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:38 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:39 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:39 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:39 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:39 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:39 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:39 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:39 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:39 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:39 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:39 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:39 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###PING
+Jun 20, 2014 11:01:39 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###PING received
+Jun 20, 2014 11:01:39 AM [pp2014.team32.client.engine.ServerMessageHandler]  run
+INFORMATION: Ping Roundtrip time: 4
+Jun 20, 2014 11:01:39 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:39 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:39 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:39 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:39 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:39 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:39 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:39 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:39 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:39 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:39 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:39 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:39 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:39 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:39 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:39 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:39 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:39 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:39 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:39 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:39 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:39 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:39 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:39 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:39 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:39 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:39 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:39 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:39 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:39 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:39 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:39 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:39 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:39 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:39 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:39 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:39 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:39 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:39 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:39 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:40 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:40 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:40 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:40 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:40 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:40 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:40 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:40 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:40 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:40 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:40 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:40 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:40 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:40 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:40 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:40 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:40 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:40 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:40 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:40 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:40 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:40 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:40 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:40 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:40 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:40 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:40 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:40 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:40 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:40 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:40 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:40 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:40 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:40 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:40 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:40 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:40 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:40 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:40 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:40 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:40 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:40 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:40 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:40 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:40 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:40 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:40 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:40 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:40 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###MOVEMENTREQUEST
+Jun 20, 2014 11:01:40 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###MOVEMENTINFO received
+Jun 20, 2014 11:01:41 AM pp2014.team32.client.comm.ServerOutputRunnable run
+INFORMATION: ### OUTBOUND MESSAGE ###PING
+Jun 20, 2014 11:01:41 AM pp2014.team32.client.comm.ServerInputRunnable run
+INFORMATION: ### MESSAGE ###PING received
+Jun 20, 2014 11:01:41 AM [pp2014.team32.client.engine.ServerMessageHandler]  run
+INFORMATION: Ping Roundtrip time: 3
